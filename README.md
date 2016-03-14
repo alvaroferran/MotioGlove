@@ -23,8 +23,8 @@ It has been used as a controller for [Loki](https://github.com/bqlabs/loki/tree/
 
 Attributions
 --------------------------------------------------------------
- - [Alvaro Ferrán Cifuentes](https://linkedin.com/in/alvaroferran/en)
+ - [Alvaro Ferrán Cifuentes](https://github.com/alvaroferran)
   - HW & SW design
 
-- [Sonia Verdú ](http://www.soniaverdu.es/)
+- [Sonia Verdú ](https://github.com/soniaverdu)
   - Mechanical design
